@@ -1,0 +1,107 @@
+# Bashkirsbody {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
+section {
+    border-top: 5px solid rgb(0, 109, 252);
+    border-bottom: 5px solid rgb(1, 146, 13);
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.black{
+    background-color: black;
+}
+
+.about {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.inside{
+    width: 1000px;
+    font-size: 22px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(2, 160, 28);
+    font-size: 36px;
+    margin-top: 45px;
+    margin-bottom: 40px;
+}
+
+h2{
+    color: rgb(0, 110, 255);
+}
+
+footer {
+    background-color: black;
+}
+
+
+.img1 {
+    
+    justify-content: center;
+}
+.img2 {
+    
+    justify-content: center;
+}
+.img3 {
+    
+    justify-content: center;
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+
+section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.gallery img {
+    opacity: 0.4;
+    
+}
+
+
+img:hover {
+    opacity: 1;
+}
+
+.Footer {
+    text-align: left;
+    background-color: #00438f;
+    padding: 10px;
+    font-size: 20px;
+    bottom: 0px;
+    width: 10000px;
+}
+
+h3 {
+    text-align: center;
+    color: rgb(2, 160, 28);
+    font-size: 36px;
+    margin-top: 45px;
+    margin-bottom: 40px;
+}    
